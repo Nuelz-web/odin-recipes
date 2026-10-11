@@ -1,0 +1,19 @@
+body {
+  background-color: lightyellow;
+}
+
+h1 {
+  color: tomato;
+  text-align: center;
+}
+
+a {
+ color: green;
+ text-decoration: none;
+}
+.recipe-list {
+  background-color: white;
+  padding: 20px;
+  width: 200;
+  border-radius: 10px;
+}
